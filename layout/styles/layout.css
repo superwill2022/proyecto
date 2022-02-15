@@ -302,7 +302,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#0AC6FC !important;}
 
 
 /* Header */
-#header{color:#FFFFFF; background-color:#01546B;}
+#header{color:#FFFFFF; background-color:#f87d19;}
 #header #logo a{color:inherit;}
 
 
@@ -314,9 +314,9 @@ input:focus, textarea:focus, *:required:focus{border-color:#0AC6FC !important;}
 /* Content */
 #services li article{border-color:#0AC6FC;}
 #services li article a{color:inherit;}
-#services li article:hover{color:#FFFFFF; background-color:#026B8A;}
+#services li article:hover{color:#FFFFFF; background-color:#028a14;}
 #services li article:hover a{color:#0AC6FC;}
-#services li article > a > i{color:#FFFFFF; background-color:#01546B; border-color:rgba(0,0,0,.1);}
+#services li article > a > i{color:#FFFFFF; background-color:#056b01; border-color:rgba(0,0,0,.1);}
 #services li article:hover > a > i{background-color:#0AC6FC;}
 
 #points{color:#474747; background-color:#FFFFFF;}
